@@ -2,7 +2,10 @@
 ### Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=faisalnazik&theme=nightowl&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalnazik&layout=compact)](https://github.com/faisalnazik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalnazik&theme=nightowl&layout=compact)](https://github.com/faisalnazik/github-readme-stats)
+
+[![faisalnazik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faisalnazik&theme=nightowl&layout=compact)](https://github.com/faisalnazik/github-readme-stats)
+
 
 
 <!--
