@@ -1,6 +1,6 @@
 
 ### Github Stats
-https://camo.githubusercontent.com/33ac7dcf64cb5c8284ae7c0733154a89cdce0d5925600cd940c097ce080315c0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73616a696231303636
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalnazik&layout=compact&repo)](https://github.com/faisalnazik/github-readme-stats)
 
 
