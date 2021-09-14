@@ -1,6 +1,7 @@
-
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:faisalnazik@gmail.com)
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dsajib1066&suffix=%20Followers)](https://twitter.com/faisalnazik/)
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=faisalnazik"></a>
 ### Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=faisalnazik&theme=highcontrast&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalnazik&layout=compact&repo)](https://github.com/faisalnazik/github-readme-stats)
 
 
