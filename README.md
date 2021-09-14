@@ -1,7 +1,6 @@
 
 ### Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=faisalnazik&hide_title=true&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalnazik&layout=compact&repo)](https://github.com/faisalnazik/github-readme-stats)
 
 
