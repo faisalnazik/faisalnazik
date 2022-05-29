@@ -6,8 +6,6 @@
 <!---  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=faisalnazik&show_icons=true&theme=gotham" alt="faisalnazik" /> --->
 <!--START_SECTION:waka-->
 
-```text
 
-```
 
 <!--END_SECTION:waka-->
